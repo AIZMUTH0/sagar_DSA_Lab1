@@ -1,5 +1,5 @@
 # sagar_DSA_Lab1
-lab assignment -1,
+Lab Assignment __ "1",
 DSA-(IITr)Greatlearning, 
 Project Type - IT Support Administrator hireing,
 
