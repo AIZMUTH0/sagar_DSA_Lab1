@@ -13,10 +13,16 @@ pseudo code :
 
 a) Generating an email with the following syntax
 firstNamelastName@department.company.com
+
+
 b) Determining the department (Technical, Admin, Human Resource, Legal).
+
 c) Generating a random password which will contain (number, capital letter, small letter &
 special character)
+
 d) Displaing the generated credentials.
+
 e) with parameterized constructor of class Employee, passing firstName, lastName.
+
 f) Creating a separate CredentialService which is have generatePassword,
 generateEmailAddress, & showCredentials method.
